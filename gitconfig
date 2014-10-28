@@ -1,0 +1,7 @@
+[color]
+  ui = auto
+[push]
+  default = simple
+[user]
+  email = zbbt@users.noreply.github.com
+  name = zbbt
